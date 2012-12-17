@@ -3,7 +3,6 @@
 # Copyright (C) 2010, 2011, 2012, Sebastián Scarano, @develsas
 # Código disponible en https://github.com/traductor-play/traductor_lib
 
-
 Librería para utilizar el servicio web de http://mymemory.translated.net
 para traducir frases de un idioma al otro
 
