@@ -1,6 +1,5 @@
 http://www.viti.es/gnu/licenses/gpl.html
 
-
 Esta es una traducción no oficial de la Licencia Pública General GNU (GNU GPL) al español. No fue publicada por la Fundación para el Software Libre, y no establece legalmente los términos de distribución para software que utiliza la GNU GPL—sólamente el texto original en inglés de la GNU GPL hace eso. De todas formas, esperamos que esta traducción ayude a los hispanohablantes a comprender mejor la GNU GPL.
 
 LICENCIA PÚBLICA GENERAL GNU
