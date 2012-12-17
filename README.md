@@ -1,7 +1,9 @@
-# traductor_lib v3.5
-# Librería para utilizar el servicio web de http://mymemory.translated.net
-# Copyright (C) 2010, 2011, 2012, Sebastián Scarano, @develsas
-# Código disponible en https://github.com/traductor-play/traductor_lib
+```
+traductor_lib v3.5
+Librería para utilizar el servicio web de http://mymemory.translated.net
+Copyright (C) 2010, 2011, 2012, Sebastián Scarano, @develsas
+Código disponible en https://github.com/traductor-play/traductor_lib
+```
 
 traductor_lib
 =============
